@@ -1,4 +1,4 @@
-import {FaApple,FaLinux,FaWindows,FaAndroid,FaXbox, FaPlaystation} from "react-icons/fa";
+import {FaLinux,FaWindows,FaAndroid,FaXbox, FaPlaystation} from "react-icons/fa";
 import Text, { HStack, Icon } from "@chakra-ui/react";
 import {MdPhoneIphone}from "react-icons/md"
 import {SiNintendo}from "react-icons/si"
