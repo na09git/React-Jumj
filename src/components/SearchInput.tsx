@@ -27,3 +27,7 @@ const SearchInput = () => {
 };
 
 export default SearchInput;
+
+function onSearch(value: string) {
+  throw new Error("Function not implemented.");
+}
